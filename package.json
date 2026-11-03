@@ -7,15 +7,15 @@
   "author": {
     "name": "laobubu",
     "email": "laobubu@gmail.com",
-    "url": "https://laobubu.net"
+    "url": "https://atlexmobiego.github.io"
   },
-  "homepage": "https://github.com/laobubu/MarkdownIME#readme",
+  "homepage": "https://github.com/Atlexmobiego/MarkdownIME#readme",
   "bugs": {
-    "url": "https://github.com/laobubu/MarkdownIME/issues"
+    "url": "https://github.com/Atlexmobiego/MarkdownIME/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/laobubu/MarkdownIME.git"
+    "url": "https://github.com/Atlexmobiego/MarkdownIME.git"
   },
   "license": "Apache-2.0",
   "devDependencies": {
